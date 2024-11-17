@@ -18,7 +18,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Result-oriented%20Software%20Engineer;10%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Result-oriented%20Software%20Engineer;7%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
 </p>
 
 <img align="right" width="40%" alt="Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
@@ -101,5 +101,20 @@
 </p>
 
 <br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Trophy:</h3>
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaskovicdejan&column=8&theme=onedark"/>
+</p>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vaskovicdejan&langs_count=10&layout=compact&theme=tokyonight&include_all_commits=true&line_height=30">
+</p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
